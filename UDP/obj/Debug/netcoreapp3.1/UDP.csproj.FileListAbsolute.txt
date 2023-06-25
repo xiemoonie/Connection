@@ -1,0 +1,14 @@
+C:\Users\Carola\Documents\EmbeddedSystems\UDP\UDP\bin\Debug\netcoreapp3.1\UDP.exe
+C:\Users\Carola\Documents\EmbeddedSystems\UDP\UDP\bin\Debug\netcoreapp3.1\UDP.deps.json
+C:\Users\Carola\Documents\EmbeddedSystems\UDP\UDP\bin\Debug\netcoreapp3.1\UDP.runtimeconfig.json
+C:\Users\Carola\Documents\EmbeddedSystems\UDP\UDP\bin\Debug\netcoreapp3.1\UDP.runtimeconfig.dev.json
+C:\Users\Carola\Documents\EmbeddedSystems\UDP\UDP\bin\Debug\netcoreapp3.1\UDP.dll
+C:\Users\Carola\Documents\EmbeddedSystems\UDP\UDP\bin\Debug\netcoreapp3.1\UDP.pdb
+C:\Users\Carola\Documents\EmbeddedSystems\UDP\UDP\obj\Debug\netcoreapp3.1\UDP.csproj.AssemblyReference.cache
+C:\Users\Carola\Documents\EmbeddedSystems\UDP\UDP\obj\Debug\netcoreapp3.1\UDP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carola\Documents\EmbeddedSystems\UDP\UDP\obj\Debug\netcoreapp3.1\UDP.AssemblyInfoInputs.cache
+C:\Users\Carola\Documents\EmbeddedSystems\UDP\UDP\obj\Debug\netcoreapp3.1\UDP.AssemblyInfo.cs
+C:\Users\Carola\Documents\EmbeddedSystems\UDP\UDP\obj\Debug\netcoreapp3.1\UDP.csproj.CoreCompileInputs.cache
+C:\Users\Carola\Documents\EmbeddedSystems\UDP\UDP\obj\Debug\netcoreapp3.1\UDP.dll
+C:\Users\Carola\Documents\EmbeddedSystems\UDP\UDP\obj\Debug\netcoreapp3.1\UDP.pdb
+C:\Users\Carola\Documents\EmbeddedSystems\UDP\UDP\obj\Debug\netcoreapp3.1\UDP.genruntimeconfig.cache
